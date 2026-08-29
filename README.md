@@ -182,4 +182,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 🙋 Author
 
-[Your Name] — built as a complete ML project applying data preprocessing, model comparison, evaluation, and deployment-ready inference.
+[Ritika singh] — built as a complete ML project applying data preprocessing, model comparison, evaluation, and deployment-ready inference.
