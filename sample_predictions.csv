@@ -1,0 +1,11 @@
+customer_id,senior_citizen,tenure_months,monthly_charges,total_charges,num_support_calls,gender,contract,internet_service,online_security,tech_support,paperless_billing,payment_method,churn_probability,churn_prediction
+CUST-12764,0,10,36.3,349.25,0,Male,Month-to-month,DSL,No,Yes,No,Bank transfer,0.1999,No
+CUST-14767,0,25,65.89,1545.15,3,Male,Month-to-month,DSL,No,No,Yes,Electronic check,0.4703,No
+CUST-13814,0,48,106.58,4652.1,6,Male,Month-to-month,Fiber optic,No,Yes,Yes,Mailed check,0.3859,No
+CUST-13499,0,72,46.4,3104.88,2,Male,Month-to-month,Fiber optic,No,Yes,Yes,Electronic check,0.1572,No
+CUST-12735,0,30,63.01,1890.92,1,Male,Two year,Fiber optic,No,No,Yes,Credit card,0.0639,No
+CUST-13922,0,15,87.14,1206.95,1,Male,One year,Fiber optic,No,Yes,No,Electronic check,0.2207,No
+CUST-12701,0,10,18.0,172.86,0,Female,Two year,No,Yes,No,Yes,Mailed check,0.0316,No
+CUST-11179,0,21,66.89,1301.36,1,Male,One year,DSL,No,No,Yes,Mailed check,0.1258,No
+CUST-10932,1,10,41.48,374.47,4,Male,Month-to-month,DSL,No,No,No,Electronic check,0.5826,Yes
+CUST-10792,0,9,26.12,225.26,2,Female,One year,No,Yes,No,No,Electronic check,0.1692,No

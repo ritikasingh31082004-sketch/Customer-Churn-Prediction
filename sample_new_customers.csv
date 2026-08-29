@@ -1,0 +1,11 @@
+customer_id,gender,senior_citizen,tenure_months,contract,internet_service,online_security,tech_support,paperless_billing,payment_method,monthly_charges,total_charges,num_support_calls
+CUST-12764,Male,0,10,Month-to-month,DSL,No,Yes,No,Bank transfer,36.3,349.25,0
+CUST-14767,Male,0,25,Month-to-month,DSL,No,No,Yes,Electronic check,65.89,1545.15,3
+CUST-13814,Male,0,48,Month-to-month,Fiber optic,No,Yes,Yes,Mailed check,106.58,4652.1,6
+CUST-13499,Male,0,72,Month-to-month,Fiber optic,No,Yes,Yes,Electronic check,46.4,3104.88,2
+CUST-12735,Male,0,30,Two year,Fiber optic,No,No,Yes,Credit card,63.01,1890.92,1
+CUST-13922,Male,0,15,One year,Fiber optic,No,Yes,No,Electronic check,87.14,1206.95,1
+CUST-12701,Female,0,10,Two year,No,Yes,No,Yes,Mailed check,18.0,172.86,0
+CUST-11179,Male,0,21,One year,DSL,No,No,Yes,Mailed check,66.89,1301.36,1
+CUST-10932,Male,1,10,Month-to-month,DSL,No,No,No,Electronic check,41.48,374.47,4
+CUST-10792,Female,0,9,One year,No,Yes,No,No,Electronic check,26.12,225.26,2
